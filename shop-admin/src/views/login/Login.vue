@@ -7,6 +7,7 @@
 </template>
 <script>
 import { setToken } from "@/utils/common";
+
 export default {
   data() {
     return {};
